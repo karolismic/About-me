@@ -1,4 +1,4 @@
-Welcoming new opportunities to spread knowledge and insights in a sharply precise, deeply grounded, aesthetically pleasing and truly impactful way
+Embracing the Agile and DevOps philosophies, I am committed to fostering a collaborative environment that thrives on continuous improvement, enabling teams to build, test, and release software with both speed and precision.
 
 <b>I am:</b>
 - DevOps & Cloud engineer 
@@ -13,6 +13,7 @@ Welcoming new opportunities to spread knowledge and insights in a sharply precis
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel"  alt="Excel" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/powerpoint.svg" title="PowePoint" alt="PowerPoint" width="30" height="30"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" title="PowePoint" alt="PowerPoint" width="30" height="30"/>&nbsp;
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/looker-icon.png" title="Looker" alt="Looker" width="30" height="30"/>&nbsp;
 </div>  
 
