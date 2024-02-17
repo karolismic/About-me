@@ -16,6 +16,9 @@ Welcoming new opportunities to spread knowledge and insights in a sharply precis
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/looker-icon.png" title="Looker" alt="Looker" width="30" height="30"/>&nbsp;
 </div>  
 
+ <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="Looker" alt="Looker" width="30" height="30"/>&nbsp;
+</div>  
+
 <br><b>Contact:</b>
 <div id="badges">
   <a href="https://www.linkedin.com/in/karolismickus/">
