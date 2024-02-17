@@ -12,7 +12,6 @@ Embracing the Agile and DevOps philosophies, I am committed to fostering a colla
   <img src="https://github.com/redbooth/free-file-icons/blob/master/512px/sql.png" title="SQL" alt="SQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel"  alt="Excel" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/powerpoint.svg" title="PowePoint" alt="PowerPoint" width="30" height="30"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" title="Terraform" alt="Terraform" width="30" height="30"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
 <br>
